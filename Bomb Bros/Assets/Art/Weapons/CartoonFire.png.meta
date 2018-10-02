@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 9f389ef83c75bd041a021fd76dd6610d
+timeCreated: 1501661300
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CartoonFire_0
+    21300002: CartoonFire_1
+    21300004: CartoonFire_2
+    21300006: CartoonFire_3
+    21300008: CartoonFire_4
+    21300010: CartoonFire_5
+    21300012: CartoonFire_6
+    21300014: CartoonFire_7
+    21300016: CartoonFire_8
+    21300018: CartoonFire_9
+    21300020: CartoonFire_10
+    21300022: CartoonFire_11
+    21300024: CartoonFire_12
+    21300026: CartoonFire_13
+    21300028: CartoonFire_14
+    21300030: CartoonFire_15
+    21300032: CartoonFire_16
+    21300034: CartoonFire_17
+    21300036: CartoonFire_18
+    21300038: CartoonFire_19
+    21300040: CartoonFire_20
+    21300042: CartoonFire_21
+    21300044: CartoonFire_22
+    21300046: CartoonFire_23
+    21300048: CartoonFire_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CartoonFire_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1024
+        width: 146
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1024
+        width: 144
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1024
+        width: 149
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_3
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1025
+        width: 149
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_4
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1024
+        width: 149
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 768
+        width: 154
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 768
+        width: 156
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 769
+        width: 156
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 768
+        width: 161
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 769
+        width: 156
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 513
+        width: 159
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 513
+        width: 151
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 512
+        width: 165
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 512
+        width: 147
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 512
+        width: 145
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 257
+        width: 144
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 257
+        width: 150
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 256
+        width: 142
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 256
+        width: 145
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 256
+        width: 149
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 158
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 158
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 158
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CartoonFire_24
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 162
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
